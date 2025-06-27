@@ -2,14 +2,14 @@
 
 ########################################################################################################################
 
-plugin_identifier = "networkhealth"
-plugin_package = "octoprint_NetworkHealth"
-plugin_name = "OctoPrint-NetworkHealth"
-plugin_version = "1.0.4"
+plugin_identifier = "networkhealthifconfig"
+plugin_package = "octoprint_NetworkHealth_ifconfig"
+plugin_name = "OctoPrint-NetworkHealth-ifconfig"
+plugin_version = "0.0.1"
 plugin_description = """Monitors the health of the Network connection and restarts it if necessary"""
-plugin_author = "Jon Fairbanks"
-plugin_author_email = "jon@fairbanks.io"
-plugin_url = "https://github.com/jonfairbanks/OctoPrint-NetworkHealth"
+plugin_author = "Gus Lupatelli"
+plugin_author_email = "gmlupatelli@gmail.com"
+plugin_url = "https://github.com/gmlupatelli/OctoPrint-NetworkHealth-ifconfig"
 plugin_license = "AGPLv3"
 plugin_requires = []
 plugin_additional_data = []
