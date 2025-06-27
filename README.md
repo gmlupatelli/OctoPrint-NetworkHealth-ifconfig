@@ -1,9 +1,5 @@
 # OctoPrint-NetworkHealth
 
-![GitHub top language](https://img.shields.io/github/languages/top/jonfairbanks/OctoPrint-NetworkHealth.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/jonfairbanks/OctoPrint-NetworkHealth.svg)
-![License](https://img.shields.io/github/license/jonfairbanks/OctoPrint-NetworkHealth.svg?style=flat)
-
 #### Monitors the health of the OctoPrint Network connection and restarts it if necessary
 
 ### Configuration
