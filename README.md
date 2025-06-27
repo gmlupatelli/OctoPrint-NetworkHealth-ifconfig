@@ -35,4 +35,4 @@ Re-enables (brings up) the interface. This makes it available again and allows i
 Install via the bundled [Plugin Manager](https://docs.octoprint.org/en/master/bundledplugins/pluginmanager.html)
 or manually using this URL:
 
-    https://github.com/jonfairbanks/OctoPrint-NetworkHealth/archive/master.zip
+    https://github.com/gmlupatelli/OctoPrint-NetworkHealth-ifconfig/archive/master.zip
