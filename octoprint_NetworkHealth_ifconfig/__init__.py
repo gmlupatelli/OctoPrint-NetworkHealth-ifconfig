@@ -35,7 +35,7 @@ class NetworkHealthPlugin(octoprint.plugin.StartupPlugin, octoprint.plugin.Resta
                 user="jonfairbanks",
                 repo="OctoPrint-NetworkHealth",
 
-                pip="https://github.com/jonfairbanks/OctoPrint-NetworkHealth/archive/{target}.zip"
+                pip="https://github.com/gmlupatelli/OctoPrint-NetworkHealth-ifconfig/archive/{target}.zip"
             )
         )
 
@@ -61,8 +61,8 @@ class NetworkHealthPlugin(octoprint.plugin.StartupPlugin, octoprint.plugin.Resta
             return False
 
 
-__plugin_name__ = "Network Health Monitor"
-__plugin_version__ = "1.0.4"
+__plugin_name__ = "Network Health Monitor ifconfig"
+__plugin_version__ = "0.0.1"
 __plugin_description__ = "Monitors the health of the Network connection and restarts it if necessary"
 __plugin_pythoncompat__ = ">=2.7,<4"
 
